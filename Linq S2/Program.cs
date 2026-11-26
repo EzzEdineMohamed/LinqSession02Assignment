@@ -57,11 +57,9 @@
 
             #region 5. Check if IDs contain 9
 
-            //int[] ids = { 3, 9, 13, 18 };
+             //var result = ProductList.Select(p => p.ProductID).Contains(9);
 
-            //var result = ids.Contains(9);
-
-            //Console.WriteLine($"IDs contain 9: {result}");
+             //Console.WriteLine($"IDs contain 9: {result}");
 
             #endregion
 
